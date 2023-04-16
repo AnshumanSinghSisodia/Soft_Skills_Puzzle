@@ -9,8 +9,8 @@ Below instructions demonstrates how to run this web application with Flask.
 Installation
 Clone the repository to your local machine using the command:
 
-$ https://github.com/Prem-Jain/Soft-Skills-Hunt.git
-$ cd Soft-Skills-Hunt
+$ https://github.com/AnshumanSinghSisodia/Soft_Skills_Puzzle.git
+$ cd Soft_Skills_Puzzle
 
 Create a virtual environment:
 $ python3 -m venv venv
